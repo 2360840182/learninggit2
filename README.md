@@ -1,5 +1,5 @@
 "# learninggit2" 
 "# learninggit2" 
 
-1.[第一个readme链接](https://www.baidu.com)
+1.[Part1任务汇总](https://www.baidu.com)
 
